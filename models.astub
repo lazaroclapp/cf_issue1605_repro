@@ -1,0 +1,7 @@
+import org.checkerframework.checker.guieffect.qual.*;
+import com.ubercab.rxthreadchecker.qual.*;
+
+package com.example.b;
+
+@UIType
+class B implements C { }
