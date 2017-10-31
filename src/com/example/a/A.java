@@ -1,6 +1,5 @@
 package com.example.a;
 
-/*>>>import org.checkerframework.checker.guieffect.qual.UI;*/
 import org.checkerframework.checker.guieffect.qual.UIType;
 
 import com.example.b.C;
